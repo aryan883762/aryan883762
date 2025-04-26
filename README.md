@@ -31,5 +31,5 @@
 
 ---
 
-[website]: https://kumararyan.in
+[website]: https://kumararyan.com
 
