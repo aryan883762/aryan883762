@@ -1,6 +1,6 @@
-### Hi there, I'm KUMAR ARYAN -  [kumararyan.in][website] 👋
+### Hi there, I'm KUMAR ARYAN -  [kumararyan.com][website] 👋
 
-[![Website](https://img.shields.io/website?label=kumararyan.in&style=for-the-badge&url=https://kumararyan.in)](https://kumararyan.in)
+[![Website](https://img.shields.io/website?label=kumararyan.com&style=for-the-badge&url=https://kumararyan.com)](https://kumararyan.com)
 
 ## I'm a Front-End / Back-End Developer, who loves to code, develop and think on idea!!
 
